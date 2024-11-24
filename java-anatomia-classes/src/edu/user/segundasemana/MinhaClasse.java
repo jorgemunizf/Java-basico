@@ -1,3 +1,4 @@
+package edu.user.segundasemana;
 
 public class MinhaClasse {
 

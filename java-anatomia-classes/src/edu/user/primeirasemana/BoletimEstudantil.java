@@ -1,3 +1,4 @@
+package edu.user.primeirasemana;
 
 public class BoletimEstudantil {
 
