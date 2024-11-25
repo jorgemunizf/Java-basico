@@ -5,8 +5,8 @@
  * <p>
  * <b>Note:</b> Leia atentamente a documentação destas classes para desfrutar
  * dos recursos oferecidos pelo autor
-
- *  *@author Jorge Filho
+ *
+ * @author Jorge Filho
  * @version 1.0
  * @since 01/01/2024
  */
@@ -22,4 +22,5 @@ public class Calculadora {
     public int somar(int numeroUm, int numeroDois) {
         return numeroUm + numeroDois;
     }
+
 }
